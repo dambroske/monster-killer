@@ -10,3 +10,4 @@ Simple game made out a JavaScript/HTML/CSS study.
 4) "Heal" button can be use twice a round. 
 5) Log is generated in console.
     
+![Captura de Tela 2022-05-12 às 13 34 45](https://user-images.githubusercontent.com/48993992/168125000-85df29ba-3b4b-4b41-8a02-48d91ec84a02.png)
